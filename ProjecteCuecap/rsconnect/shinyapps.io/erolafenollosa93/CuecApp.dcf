@@ -1,0 +1,12 @@
+name: CuecApp
+title: CuecApp
+username: erolafenollosa93
+account: erolafenollosa93
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11195449
+bundleId: 8243858
+url: https://erolafenollosa93.shinyapps.io/CuecApp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
